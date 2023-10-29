@@ -70,7 +70,7 @@ hello world!
 hello world!
 
 > hi "there"
-hi there:
+hi there!
 ```
 ```
 > use greetings *
